@@ -1,0 +1,7 @@
+version.txt
+update.files
+scripts/const.py
+scripts/game.py
+scripts/main.py
+scripts/resources.py
+scripts/update.py
