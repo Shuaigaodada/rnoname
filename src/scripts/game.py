@@ -1,3 +1,4 @@
+# main game logic
 import sys as _sys
 import const as _const
 import update as _update
